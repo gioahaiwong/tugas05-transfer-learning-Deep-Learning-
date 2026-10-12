@@ -1,0 +1,6 @@
+Condition,Augment,Trainable Params,Epochs,Duration (s),Best Val Loss,Test Acc,Test Macro F1
+B1,False,11181642,9,84.39,1.6287,0.3826,0.368
+B2,False,5130,15,130.25,0.2498,0.943,0.9435
+B3,False,8398858,6,62.54,0.2004,0.943,0.9429
+B4,True,8398858,9,115.54,0.1921,0.9329,0.933
+B5,True,424970,13,166.61,0.2509,0.9362,0.9359
